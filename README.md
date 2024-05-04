@@ -16,7 +16,7 @@ pip install PLAID-X
 ```
 
 Make sure your gcc and gxx version is `>=9.4.0`, which is the requirement for `ninja` to work properly.
-We recommand using a `conda` environment to control it.
+We recommend using a `conda` environment to control it.
 
 ## Usage
 
